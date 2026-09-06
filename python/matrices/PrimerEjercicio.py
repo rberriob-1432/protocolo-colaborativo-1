@@ -4,5 +4,5 @@ matriz = [
     [7,8,9]
 ]
 print("Matriz")
-for fila in matriz:
-    print(fila)
+for i in range:
+    print(i)
